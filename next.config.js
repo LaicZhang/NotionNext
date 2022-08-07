@@ -13,7 +13,9 @@ module.exports = withBundleAnalyzer({
       'gravatar.com',
       'www.notion.so',
       'avatars.githubusercontent.com',
-      'images.unsplash.com'
+      'images.unsplash.com',
+      'cdn.zyha.cn',
+      'pic.rmb.bdstatic.com'
     ]
   },
   async headers() {
